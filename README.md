@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/icon.png" alt="Video Editor Icon" width="350" />
+  <img src="docs/icon.png" alt="Video Editor Icon" width="128" />
   
   <h1 align="center">Video Editor by Fest</h1>
 
