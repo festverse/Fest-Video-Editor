@@ -13,7 +13,7 @@
 
 ![Video Editor by Fest - Interface](docs/Screenshot.png)
 
-A professional desktop application built to automate the most tedious parts of editing short-form vertical content (Shorts, Reels, TikToks). Everything runs **100% locally and offline** on your machine—no cloud subscriptions, no API keys, and complete data privacy.
+A professional desktop application built to automate the most tedious parts of editing short-form vertical content (Shorts, Reels, TikToks). Everything runs **100% locally and offline** on your machine. No cloud subscriptions, no API keys, and complete data privacy.
 
 ## ✨ Core Features
 
