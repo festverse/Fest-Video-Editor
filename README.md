@@ -1,14 +1,3 @@
-# Remotion + Electron
-
-<p align="center">
-  <a href="https://github.com/remotion-dev/logo">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-dark.apng">
-      <img alt="Animated Remotion Logo" src="https://github.com/remotion-dev/logo/raw/main/animated-logo-banner-light.gif">
-    </picture>
-  </a>
-</p>
-
 # 🎬 Video Editor by Fest
 
 ![Video Editor by Fest - Interface](docs/Screenshot.png)
