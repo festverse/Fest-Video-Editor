@@ -12,7 +12,6 @@
 # 🎬 Video Editor by Fest
 
 ![Video Editor by Fest - Interface](docs/Screenshot.png)
-_(Note: Replace `docs/screenshot.png` with the actual path to your uploaded screenshot)_
 
 A professional desktop application built to automate the most tedious parts of editing short-form vertical content (Shorts, Reels, TikToks). Everything runs **100% locally and offline** on your machine—no cloud subscriptions, no API keys, and complete data privacy.
 
@@ -46,4 +45,4 @@ For developers interested in the architecture:
 
 ---
 
-**Author:** Fest | [festverse.in](https://festverse.in)
+**Author:** Fest 2026 | [festverse.in](https://festverse.in)
