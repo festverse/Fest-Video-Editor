@@ -1,4 +1,7 @@
-<h1 align="center">Video Editor by Fest</h1>
+<div align="center">
+  <img src="docs/icon.png" alt="Video Editor Icon" width="350" />
+  
+  <h1 align="center">Video Editor by Fest</h1>
 
 <p align="center">
   <strong>A professional desktop application built to automate the most tedious parts of editing short-form vertical content (Shorts, Reels, TikToks). Everything runs 100% locally and offline on your machine. No cloud subscriptions, no API keys, and complete data privacy.</strong>
